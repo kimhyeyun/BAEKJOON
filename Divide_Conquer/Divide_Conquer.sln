@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Divide_Conquer", "Divide_Conquer\Divide_Conquer.vcxproj", "{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}.Debug|x64.ActiveCfg = Debug|x64
+		{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}.Debug|x64.Build.0 = Debug|x64
+		{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}.Debug|x86.Build.0 = Debug|Win32
+		{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}.Release|x64.ActiveCfg = Release|x64
+		{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}.Release|x64.Build.0 = Release|x64
+		{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}.Release|x86.ActiveCfg = Release|Win32
+		{0CC69EF7-2EFC-4142-8A2B-BD269B1C120E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E7A78D-162A-4199-A0D6-CDB3F6F06CE9}
+	EndGlobalSection
+EndGlobal
